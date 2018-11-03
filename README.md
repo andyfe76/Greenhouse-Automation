@@ -12,6 +12,9 @@ Control
 * Irrigation pump
 * Coolong mist dispenser
 
-Check the building and operating history at https://www.facebook.com/refarm2.0/
+Check the building and operating history at [reFarm](https://www.facebook.com/refarm2.0/) 
 
-![alt text](https://raw.githubusercontent.com/andyfe76/Greenhouse-Automation/master/doc/interface.jpg)
+![alt text](https://raw.githubusercontent.com/andyfe76/Greenhouse-Automation/master/doc/refarm_sw.jpg)
+![alt text](https://raw.githubusercontent.com/andyfe76/Greenhouse-Automation/master/doc/refarm_hw.jpg)
+![alt text](https://raw.githubusercontent.com/andyfe76/Greenhouse-Automation/master/doc/refarm_greenhouse.jpg)
+
