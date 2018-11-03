@@ -14,4 +14,4 @@ Control
 
 Check the building and operating history at https://www.facebook.com/refarm2.0/
 
-![alt text](https://raw.githubusercontent.com/andyfe76/Greenhouse-Automation/master/doc/interface.png)
+![alt text](https://raw.githubusercontent.com/andyfe76/Greenhouse-Automation/master/doc/interface.jpg)
